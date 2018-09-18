@@ -9,8 +9,7 @@ dependencies:
   - jupyter_dashboards
   - jupyter_dashboards_bundlers
   - matplotlib
-  - folium
+  - seaborn
   - ipywidgets=7
-  - qgrid
-  - plotly
-  - beakerx
+  - scipy
+  - numpy
