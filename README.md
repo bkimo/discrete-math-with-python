@@ -4,7 +4,7 @@ These learning materials are to supplement the teaching of discrete mathematics 
 > Get an interactive session in MyBinder.org with these course materials by clicking on the button below. Select the folder notebooks to access the course material as fully executable Jupyter notebooks. (Note that lauching interactive binder may take several minutes.) 
 
 >[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bkimo/discrete-math-with-python/master) 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bkimo/discrete-math-with-python/master)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bkimo/discrete-math-with-python)
 
 #### [Tutorial 1](tutorial_1_jupyter_notebook.ipynb): Jupyter Notebook Guide 
 What is Jupyter?, Launching a Jupyter Notebook, Cells, Code cells, Display of graphics, Proper formatting of cells, Best practices for code cells, Markdown cells, Styling your notebook, Collaborating with Google Drive
