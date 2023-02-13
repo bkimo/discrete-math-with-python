@@ -6,7 +6,7 @@ These learning materials are to supplement the teaching of discrete mathematics 
 >[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bkimo/discrete-math-with-python/master) 
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bkimo/discrete-math-with-python)
 
-#### [Tutorial 1](tutorial_1_JupyterLab.ipynb): Jupyter Lab Guide 
+#### [Tutorial 1](tutorial_1_JupytherLab.ipynb): Jupyter Lab Guide 
 What is Jupyter?, Cells, Code cells, Display of graphics, Proper formatting of cells, Best practices for code cells, Markdown cells
 
 #### [Tutorial 2](tutorial_2_Latex.ipynb): Introduction to 𝐿𝐴𝑇𝐸𝑋 for Jupyter notebook
